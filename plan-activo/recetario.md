@@ -6,8 +6,8 @@ Imprime cada bloque entre `---`. El **plan de la semana** (que dia toca que) est
 
 **Arroz (ahora):** 1) saquito arroz congelado micro → 2) cuando se acaben, vasito arroz Mercadona micro. (Arroz crudo TM solo si no queda ninguna de las dos.)
 
-**Proteina tipica:** 150–180 g carne/pescado · o 1 lata atun · o 2–3 huevos.  
-**Ajo:** polvo o cocinado. **Huevos duros:** stock o airfryer 130 C ~10 min.
+**Proteina tipica:** pechuga de pollo 150–180 g · merluza o salmon 120–180 g · o 1 lata atun natural · o 2–3 huevos.  
+**Ajo:** ajo polvo o diente cocinado. **Huevos duros:** stock o airfryer 130 C ~10 min.
 
 ## Indice (codigos = semana.md)
 
@@ -17,8 +17,8 @@ Imprime cada bloque entre `---`. El **plan de la semana** (que dia toca que) est
 | **R2** | Crema fria pepino + huevo + queso 0% | Cena L |
 | **R3** | Lentejas frias + salmon | Comida M |
 | **R4** | Ensalada garbanzos + huevo | Cena M |
-| **R5** | Merluza + verduras | Comida X |
-| **R6** | Ensalada verde + queso 0% + huevo + fruta | Cena X / D |
+| **R5** | Merluza + calabacin y zanahoria | Comida X |
+| **R6** | Ensalada canónigos + queso fresco 0% + huevo + manzana | Cena X / D |
 | **R7** | Pollo cubos + pimiento / ensalada | Comida J |
 | **R8** | Sopa fria pepino + huevo | Cena J |
 | **R9** | Pasta fria + atun + huevo | Comida V |
@@ -33,8 +33,8 @@ Imprime cada bloque entre `---`. El **plan de la semana** (que dia toca que) est
 | **R18** | Pastel de patata y pollo | Comida batch (4 raciones) |
 | **R19** | Pasta cremosa cebolla caramelizada (light) | Comida/cena (2 pers) |
 | **R20** | Ensalada pasta Big Mac light | Comida (2 pers) |
-| **R21** | Ensalada proteina + fibra (judias) | Comida (2 pers) |
-| **R22** | Tomates asados + queso light | Cena / aperitivo (2 pers) |
+| **R21** | Ensalada alubias blancas + atun | Comida (2 pers) |
+| **R22** | Tomates asados + mozzarella light | Cena / aperitivo (2 pers) |
 | **R23** | Migas de coliflor + huevos | Comida/cena (2 pers) |
 
 ---
@@ -104,24 +104,30 @@ Saltear garbanzos 5 min; servir tibio sobre hoja.
 
 ---
 
-## R5 | Comida | Merluza + verduras
+## R5 | Comida | Merluza + calabacin y zanahoria
 
 ### INGREDIENTES (1)
-- Merluza: 150–200 g
-- Verdura mix micro/cong.: 200–250 g
+- Filete de merluza: 150–200 g
+- Calabacin: 1/2 (~100–120 g) · zanahoria: 1 mediana (~80–100 g)
+  - Alt. Carrefour: bolsa verduras microondas jardinera (~200–250 g)
 - Limon, sal
 
 ### PREPARACION (calor → comer tibio/frio)
-- Verdura: micro 6–8 min **o** airfryer 12 min (voltear 6).
+- Calabacin + zanahoria: micro 6–8 min **o** airfryer 12 min (voltear 6).
 - Merluza: airfryer 180 C ~10–12 min (voltear 6).
 - Enfriar si hace calor.
 
 ---
 
-## R6 | Cena | Ensalada verde + queso 0% + huevo + fruta
+## R6 | Cena | Ensalada canónigos + queso fresco 0% + huevo + manzana
 
 ### INGREDIENTES (1)
-- Lechuga/canonigos · queso 0% 80–100 g · huevo 1 · fruta 150 g · almendras opc. 10 g
+- Canonigos (o lechuga iceberg): 1/2–1 bolsa
+- Queso fresco 0% / burgos 0%: 80–100 g
+- Huevo duro: 1
+- Manzana: 1 pequena (~150 g) **o** pera / naranja
+- Aceite 1 cdta + vinagre + sal
+- Almendras: opc. 10 g
 
 ### OPCION FRIA
 Montar bol; aliñar. **Todo frio.** (Cena X y D.)
@@ -293,14 +299,14 @@ Yogur griego ligero + limon + cilantro + aceitunas picadas (+ sal/pimienta).
 
 ### INGREDIENTES (4)
 - Patatas cocidas (bote): **2 botes** (lavadas y bien escurridas)
-- Pollo asado al natural: **2 paquetes** Mercadona **o** pechuga asada en casa
-- Pisto: **1 bote 350 g**
-- Queso rallado light: capa fina
+- Pechuga de pollo cocida en lonchas: **2 packs ~200 g** (Carrefour El Mercado) **o** pechuga fresca asada en casa ~400 g
+- Pisto de verduras (bote): **1 bote 350 g**
+- Queso rallado light (mozzarella o mezcla light): capa fina
 - Aceite de oliva (1 cdta en el pure), sal, pimienta, nuez moscada, oregano
 
 ### PREPARACION
 1. Fuente: patatas + 1 cdta aceite + sal + pimienta + pizca nuez moscada. Machacar a pure.
-2. Mezclar pollo + pisto + sal, pimienta y oregano. Extender encima.
+2. Mezclar pechuga de pollo cocida desmenuzada + pisto + sal, pimienta y oregano. Extender encima.
 3. Cubrir con capa fina de queso light.
 4. Horno **180 C × 15 min** + grill unos minutos.
 5. Porcionar en 4. 2 ahora (1/pers); 2 para otra comida.
@@ -316,8 +322,8 @@ Yogur griego ligero + limon + cilantro + aceitunas picadas (+ sal/pimienta).
 - Sal: 1 cdita
 - Aceto balsamico o vinagre: chorrito
 - Ajo polvo, pimenton dulce, pimienta
-- **Crema:** yogur griego ligero 2–3 cdas **o** batido 0% (preferido) · crema light 2 cdas (alt.)
-- Opcional proteina: pechuga ~150–200 g **o** 1–2 latas atun (para 2)
+- **Crema:** yogur griego ligero 2–3 cdas **o** queso fresco batido 0% (preferido) · queso crema light 2 cdas (alt.)
+- Extra (elige uno): pechuga de pollo ~150–200 g **o** atun natural 1–2 latas (para 2)
 
 ### TIP cebolla
 Cortar al medio y enjuagar bajo el agua (menos llorar).
@@ -326,7 +332,7 @@ Cortar al medio y enjuagar bajo el agua (menos llorar).
 1. Cocer pasta al dente; reservar 1/2 vaso agua de coccion. Escurrir.
 2. Sartén: aceite + cebolla + sal a fuego bajo. Al dorar, chorrito aceto. Hasta caramelizada (10–20 min).
 3. Yogur/queso light + ajo + pimenton + pimienta → salsa. Aflojar con agua de pasta si hace falta.
-4. Incorporar pasta (+ proteina). Servir.
+4. Incorporar pasta (+ pechuga de pollo o atun natural si va). Servir.
 
 ---
 
@@ -335,8 +341,8 @@ Cortar al medio y enjuagar bajo el agua (menos llorar).
 Sabor burger light: salsa yogur + pepinillo, sin mayonesa. Ref. 1 pers ~416 kcal / 35 g prot / 4 g grasa → aqui ×2.
 
 ### INGREDIENTES (2)
-- Pasta tiburones (o similar): **120 g crudos** (60 g/pers)
-- Pollo cocido / pechuga: **200 g**
+- Pasta tiburones: **120 g crudos** (60 g/pers)
+- Pechuga de pollo cocida (lonchas o hecha en casa): **200 g**
 - Yogur griego **ligero**: **4 cdas** (~100–120 g)
 - Ketchup **zero/light**: **2 cdas**
 - Mostaza: **2 cdas**
@@ -355,35 +361,30 @@ Sabor burger light: salsa yogur + pepinillo, sin mayonesa. Ref. 1 pers ~416 kcal
 
 ---
 
-## R21 | Comida | Ensalada proteina + fibra (judias) (2 pers)
+## R21 | Comida | Ensalada alubias blancas + atun (2 pers)
 
 Mucha fibra y proteina. Ref. 1 pers ~422 kcal / 36 g prot / 16 g fibra / 8 g grasa → aqui ×2.
 
 ### INGREDIENTES (2)
-- Judias / habichuelas cocidas: **400 g** (escurridas)
-- **Proteina (elige 1 o combina):**
-  - Atun natural: **2 latas**
-  - Pollo cocido: **200 g**
-  - Pavo lonchas: **150–200 g**
-  - Huevos duros: **2–4**
-  - Sardinas al natural: **1–2 latas**
-  - Queso fresco 0% / cottage light: **100–150 g**
+- Alubias blancas cocidas (bote): **400 g** escurridas
+- Atun natural: **2 latas** (~160 g escurrido)
+  - Alternativas concretas (cambia atun por una): pechuga de pollo cocida 200 g · pechuga de pavo lonchas 150–200 g · huevos duros 2–4 · sardinas al natural 1–2 latas · queso fresco 0% / cottage light 100–150 g
 - Yogur griego ligero: **200 g**
 - Mostaza: 2–3 cdas
 - Huevo: **2** (para el picadillo)
-- Cebolla morada, pimiento rojo y verde, pepinillos, zanahoria: al gusto (generoso)
+- Cebolla morada: 1/2–1 · pimiento rojo: 1/2 · pimiento verde: 1/2 · pepinillos: 4–6 · zanahoria: 1
 - Sal, oregano
-- **Evitar** (o muy poco): aguacate, frutos secos, aceite extra
+- **No echar** (o muy poco): aguacate, almendras, aceite extra
 
 ### PREPARACION
 1. Bol: yogur + mostaza + sal + oregano.
-2. Picadora/cuchillo: huevo + vegetales → picadillo fino.
-3. Bol grande: judias + picadillo + salsa + proteina. Mezclar.
+2. Picadora/cuchillo: huevo + cebolla morada + pimientos + pepinillos + zanahoria → picadillo fino.
+3. Bol grande: alubias blancas + picadillo + salsa + atun (o la alternativa elegida). Mezclar.
 4. Servir **fria**. Aguanta nevera 1–2 dias.
 
 ---
 
-## R22 | Cena / aperitivo | Tomates asados + queso light (2 pers)
+## R22 | Cena / aperitivo | Tomates asados + mozzarella light (2 pers)
 
 Version light del tip burrata: menos aceite, queso bajo en grasa, pan integral controlado.
 
@@ -393,18 +394,17 @@ Version light del tip burrata: menos aceite, queso bajo en grasa, pan integral c
 - Perejil fresco: un poco
 - Aceite de oliva: **1–2 cdtas**
 - Sal
-- **Queso (elige, de menos a mas kcal):**
-  - Preferido: mozzarella **light** o queso fresco 0% (~125–150 g)
-  - Capricho puntual: 1/2 burrata para 2 (repartir)
-- Albahaca fresca (opc.)
-- Parmesano: **opcional, 1 cdta** (no obligatorio)
-- Pan integral o Wasa: **2–4 rebanadas/tortitas**
+- **Queso:** mozzarella light **125–150 g** (preferido)
+  - Alt.: queso fresco 0% / burgos 0% 125–150 g · o 1/2 burrata solo de capricho
+- Albahaca fresca: unas hojas (opc.)
+- Queso parmesano rallado: **opcional, 1 cdta**
+- Pan de molde integral: **2–4 rebanadas** (o pan tostado integral tipo Wasa ×4)
 
 ### PREPARACION
 1. Recipiente: cherry + ajos + perejil + aceite medido + sal. Remover.
 2. **Airfryer u horno** 180 C **20–25 min** hasta blanditos.
 3. Untar el pan con el jugo de los tomates; tostar 2–3 min.
-4. Emplatar tomates; queso light (o 1/2 burrata) encima; albahaca. Mojar el pan.
+4. Emplatar tomates; mozzarella light encima; albahaca. Mojar el pan.
 
 ---
 
@@ -417,7 +417,8 @@ Sustituye pan/patata por coliflor: bajo carbo, alta saciedad.
 - Ajo polvo, pimenton (dulce/picante), sal
 - Aceite de oliva: **1–2 cdtas**
 - Huevos: **4** (2/pers a la plancha)
-- Jamon serrano: **2 lonchas** (o pavo / jamon cocido light)
+- Jamon serrano: **2 lonchas**
+  - Alt.: pechuga de pavo lonchas light ×2
 
 ### PREPARACION
 1. Picar/rallar coliflor a textura “miga”.

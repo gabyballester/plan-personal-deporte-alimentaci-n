@@ -1,11 +1,11 @@
-/** Compra Carrefour hoy · R13–R23 · 2 pers (R18 = 4 servicios) */
+/** Compra Carrefour hoy · R13–R23 · nombres concretos · 2 pers */
 window.COMPRAS = [
   {
     id: "carne",
     title: "Carne / charcutería",
     items: [
-      { id: "c1", name: "Pechuga pollo fresca", meta: "2 bandejas ~500–600 g · ~1–1,2 kg total" },
-      { id: "c2", name: "Pechuga cocida lonchas 200 g El Mercado", meta: "×2 packs · R18 (o pollo asado ~400 g)" },
+      { id: "c1", name: "Pechuga de pollo fresca", meta: "2 bandejas ~500–600 g · ~1–1,2 kg" },
+      { id: "c2", name: "Pechuga de pollo cocida lonchas", meta: "2×200 g El Mercado · R18" },
       { id: "c3", name: "Jamón serrano lonchas", meta: "1 pack · usar 2 lonchas · R23" }
     ]
   },
@@ -13,34 +13,34 @@ window.COMPRAS = [
     id: "latas",
     title: "Latas / botes",
     items: [
-      { id: "a1", name: "Atún natural", meta: "pack 3×80 g Classic · R21" },
+      { id: "a1", name: "Atún al natural", meta: "pack 3×80 g Classic · R21" },
       { id: "a2", name: "Sardinas al natural", meta: "2 latas · R17" },
-      { id: "a3", name: "Judías / alubias cocidas", meta: "bote ~400–500 g · R21" },
-      { id: "a4", name: "Patatas cocidas bote", meta: "2 botes · R18" },
-      { id: "a5", name: "Pisto", meta: "bote ~350 g · R18" }
+      { id: "a3", name: "Alubias blancas cocidas", meta: "bote ~400–500 g · R21" },
+      { id: "a4", name: "Patatas cocidas", meta: "2 botes · R18" },
+      { id: "a5", name: "Pisto de verduras", meta: "bote ~350 g · R18" }
     ]
   },
   {
     id: "lact",
     title: "Lácteos / huevos",
     items: [
-      { id: "l1", name: "Yogur griego ligero / 0%", meta: "pack 6×125 g o tarrina 1 kg" },
-      { id: "l2", name: "Yogur natural / 0%", meta: "2 uds · tartaletas R15" },
-      { id: "l3", name: "Queso rallado light", meta: "bolsa 150–200 g · R16 R18" },
-      { id: "l4", name: "Mozzarella light o queso fresco 0%", meta: "125–150 g · R22" },
-      { id: "l5", name: "Huevos", meta: "carton 18 (o 12+6) · ~15 uds" }
+      { id: "l1", name: "Yogur griego natural ligero", meta: "pack 6×125 g Extra o 1 kg" },
+      { id: "l2", name: "Yogur natural desnatado / 0%", meta: "2 uds · R15" },
+      { id: "l3", name: "Mozzarella rallada light", meta: "bolsa 150–200 g · R16 R18" },
+      { id: "l4", name: "Mozzarella light (bola/tarrina)", meta: "125–150 g · R22" },
+      { id: "l5", name: "Huevos M/L", meta: "cartón 18 · ~15 uds" }
     ]
   },
   {
     id: "pasta",
     title: "Pasta / cereales / pan",
     items: [
-      { id: "p1", name: "Pasta tiburones Classic 500 g", meta: "usas 120 g · R20" },
-      { id: "p2", name: "Pasta integral 500 g", meta: "usas 140–160 g · R19" },
-      { id: "p3", name: "Corn flakes (sin azúcar si hay)", meta: "1 caja · usas 100 g · R14" },
+      { id: "p1", name: "Pasta tiburones", meta: "Classic 500 g · usas 120 g · R20" },
+      { id: "p2", name: "Espagueti integral", meta: "500 g · usas 140–160 g · R19" },
+      { id: "p3", name: "Copos de maíz (corn flakes) sin azúcar", meta: "1 caja · usas 100 g · R14" },
       { id: "p4", name: "Obleas de arroz", meta: "1 pack · usas 4 · R15" },
-      { id: "p5", name: "Tortitas / wraps trigo", meta: "1 pack · usas 2 · R16" },
-      { id: "p6", name: "Pan integral o Wasa", meta: "2–4 rebanadas · R22" }
+      { id: "p5", name: "Tortitas de trigo", meta: "1 pack · usas 2 · R16" },
+      { id: "p6", name: "Pan de molde integral", meta: "2–4 rebanadas · R22" }
     ]
   },
   {
@@ -49,29 +49,37 @@ window.COMPRAS = [
     items: [
       { id: "v1", name: "Brócoli", meta: "~400 g · R16" },
       { id: "v2", name: "Coliflor", meta: "~500 g · R23" },
-      { id: "v3", name: "Col + zanahoria", meta: "1/4 col · 4–5 zanahorias" },
-      { id: "v4", name: "Cebolla amarilla/blanca", meta: "5 uds · R19" },
-      { id: "v5", name: "Cebolla morada", meta: "2–3 · R20 R21" },
-      { id: "v6", name: "Lechuga / canónigos", meta: "2 bolsas · R20" },
-      { id: "v7", name: "Tomate cherry", meta: "bandeja 400–500 g · R22" },
-      { id: "v8", name: "Tomate ensalada", meta: "2–3 · R20" },
-      { id: "v9", name: "Pimiento rojo + verde", meta: "1+1 · R21" },
-      { id: "v10", name: "Ajos", meta: "1 cabeza · R22" },
-      { id: "v11", name: "Limón", meta: "2" },
-      { id: "v12", name: "Arándanos + frambuesas", meta: "1 tarrina c/u · R15" },
-      { id: "v13", name: "Perejil / albahaca", meta: "opc. · R22" }
+      { id: "v3", name: "Col", meta: "1/4 pieza · R13" },
+      { id: "v4", name: "Zanahoria", meta: "5 uds · R13 R21" },
+      { id: "v5", name: "Cebolla amarilla", meta: "5 uds · R19" },
+      { id: "v6", name: "Cebolla morada", meta: "3 uds · R20 R21" },
+      { id: "v7", name: "Canónigos", meta: "2 bolsas · R20" },
+      { id: "v8", name: "Tomate cherry", meta: "bandeja 400–500 g · R22" },
+      { id: "v9", name: "Tomate pera / ensalada", meta: "3 uds · R20" },
+      { id: "v10", name: "Pimiento rojo", meta: "1 · R21" },
+      { id: "v11", name: "Pimiento verde", meta: "1 · R21" },
+      { id: "v12", name: "Ajo", meta: "1 cabeza · R22" },
+      { id: "v13", name: "Limón", meta: "2" },
+      { id: "v14", name: "Arándanos", meta: "tarrina ~125 g · R15" },
+      { id: "v15", name: "Frambuesas", meta: "tarrina ~125 g · R15" },
+      { id: "v16", name: "Perejil fresco", meta: "1 manojo · R22" },
+      { id: "v17", name: "Albahaca fresca", meta: "opc. · R22" }
     ]
   },
   {
     id: "ex",
     title: "Salsas / especias",
     items: [
-      { id: "e1", name: "Stevia", meta: "R15 — comprar si no hay" },
-      { id: "e2", name: "Ketchup zero / light", meta: "R14 R20" },
-      { id: "e3", name: "Mostaza", meta: "si no tienes" },
+      { id: "e1", name: "Stevia", meta: "R15" },
+      { id: "e2", name: "Ketchup zero", meta: "R14 R20" },
+      { id: "e3", name: "Mostaza clásica", meta: "si no tienes" },
       { id: "e4", name: "Pepinillos en vinagre", meta: "1 bote" },
-      { id: "e5", name: "Vinagre balsámico", meta: "R19 · si no tienes" },
-      { id: "e6", name: "Ajo polvo · pimentón · orégano · nuez moscada", meta: "si faltan en casa" }
+      { id: "e5", name: "Vinagre balsámico", meta: "R19" },
+      { id: "e6", name: "Ajo en polvo", meta: "si falta" },
+      { id: "e7", name: "Pimentón dulce", meta: "si falta" },
+      { id: "e8", name: "Orégano", meta: "si falta" },
+      { id: "e9", name: "Nuez moscada", meta: "R18" },
+      { id: "e10", name: "Aceitunas verdes sin hueso", meta: "opc. salsa R17" }
     ]
   }
 ];

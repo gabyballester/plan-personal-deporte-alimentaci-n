@@ -18,7 +18,7 @@
 |-----|----------|----------|-----------------|---------------|----------------|
 | **L** | 60 g **copos** + leche + lino + chia + cafe | Yogur griego + fruta | **R1** Ensalada arroz micro + atun + huevo | **R2** Crema fria pepino + huevo + queso 0% | Empuje pecho |
 | **M** | 2 tostadas + cacahuete polvo + 2 huevos + cafe | Platano + mix 3+3+3 | **R3** Lentejas frias + salmon | **R4** Ensalada garbanzos + huevo | Tiron espalda |
-| **X** | Yogur proteinas + 25 g harina (sin; o dulce si acabas stock) + cacahuete + bayas | 2 huevos + tostada/Wasa | **R5** Merluza + verduras | **R6** Ensalada verde + queso 0% + huevo + fruta | Hombro |
+| **X** | Yogur proteinas + 25 g harina (sin; o dulce si acabas stock) + cacahuete + bayas | 2 huevos + tostada/Wasa | **R5** Merluza + calabacin y zanahoria | **R6** Canonigos + queso fresco 0% + huevo + manzana | Hombro |
 | **J** | 60 g **copos** + leche + lino + cacahuete + cafe | Yogur griego + naranja/sandia | **R7** Pollo cubos + pimiento/ensalada | **R8** Sopa fria pepino + huevo | Espalda + biceps |
 | **V** | 2 tostadas + jamon/pavo + cafe | Manzana + mix frutos | **R9** Pasta fria + atun + huevo | **R10** Tortilla espinacas + ensalada | Pecho + triceps |
 | **S** | Yogur proteinas + 20 g harina (sin; o dulce si acabas stock) + cacahuete + bayas | Fruta + Wasa o huevos | **R11** Quinoa/arroz micro + salteado gambas + huevo | **R12** Cena abierta ligera | Full tren superior ligero |
@@ -37,8 +37,8 @@ Codigos **R1–R13** = bloques en `recetario.md` (imprimibles).
 | **R18** Pastel patata y pollo | Comida batch | **4 raciones** = 2×2 comidas |
 | **R19** Pasta cebolla light | Comida/cena | **2 pers** · alt. R9 |
 | **R20** Pasta Big Mac light | Comida | **2 pers** · frio |
-| **R21** Judias proteina+fibra | Comida | **2 pers** · frio |
-| **R22** Tomates + queso light | Cena/aperitivo | **2 pers** · sin burrata plena |
+| **R21** Alubias blancas + atun | Comida | **2 pers** · frio |
+| **R22** Tomates + mozzarella light | Cena/aperitivo | **2 pers** |
 | **R23** Migas coliflor | Comida/cena | **2 pers** |
 
 ---
