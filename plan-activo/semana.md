@@ -26,15 +26,20 @@
 
 Codigos **R1–R13** = bloques en `recetario.md` (imprimibles).
 
-### Alternativas / extras (R14–R18)
+### Alternativas / extras (R14–R23) — light / 2 pers
 
-| Cod | Uso | Sustituye / nota |
-|-----|-----|------------------|
-| **R14** Nuggets pollo | Comida | Alt. de **R7** (J) o **R13** (D) |
-| **R15** Tartaletas yogur | Postre / merienda | Extra; no sustituye comida/cena |
-| **R16** Tortillas brocoli | Comida o cena | **2 personas** (resto del plan = 1 pers) |
-| **R17** Croquetas proteicas | Comida | Alt. ligera (patata + sardinas + salsa yogur opc.) |
-| **R18** Pastel patata y pollo | Comida batch | **4 raciones** = 2 pers × 2 comidas (sobras nevera) |
+| Cod | Uso | Nota |
+|-----|-----|------|
+| **R14** Nuggets pollo | Comida | 2 raciones · ketchup zero |
+| **R15** Tartaletas yogur | Postre | ×2 si sois 2 |
+| **R16** Tortillas brocoli | Comida/cena | **2 pers** |
+| **R17** Croquetas proteicas | Comida | 2 raciones · sardinas |
+| **R18** Pastel patata y pollo | Comida batch | **4 raciones** = 2×2 comidas |
+| **R19** Pasta cebolla light | Comida/cena | **2 pers** · alt. R9 |
+| **R20** Pasta Big Mac light | Comida | **2 pers** · frio |
+| **R21** Judias proteina+fibra | Comida | **2 pers** · frio |
+| **R22** Tomates + queso light | Cena/aperitivo | **2 pers** · sin burrata plena |
+| **R23** Migas coliflor | Comida/cena | **2 pers** |
 
 ---
 

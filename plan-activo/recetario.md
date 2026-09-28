@@ -31,6 +31,11 @@ Imprime cada bloque entre `---`. El **plan de la semana** (que dia toca que) est
 | **R16** | Tortillas de brocoli | Comida/cena (2 pers) |
 | **R17** | Croquetas proteicas (patata + sardinas) | Alt. comida |
 | **R18** | Pastel de patata y pollo | Comida batch (4 raciones) |
+| **R19** | Pasta cremosa cebolla caramelizada (light) | Comida/cena (2 pers) |
+| **R20** | Ensalada pasta Big Mac light | Comida (2 pers) |
+| **R21** | Ensalada proteina + fibra (judias) | Comida (2 pers) |
+| **R22** | Tomates asados + queso light | Cena / aperitivo (2 pers) |
+| **R23** | Migas de coliflor + huevos | Comida/cena (2 pers) |
 
 ---
 
@@ -188,8 +193,10 @@ Evitar pizza/croquetas en deficit (excepcion = poca racion + mucha ensalada).
 
 ## R13 | Comida | Pollo/contramuslo + ensalada col
 
-### INGREDIENTES (1)
-- Pechuga 150–180 g **o** 1 contramuslo · col 1/8 · zanahoria 1 · yogur 0% + vinagre
+**Light:** preferir **pechuga** (menos grasa que contramuslo). Aliño yogur 0% + vinagre, sin mayonesa.
+
+### INGREDIENTES (1) · ×2 si sois 2
+- Pechuga **150–180 g** (preferida) **o** 1 contramuslo · col 1/8 · zanahoria 1 · yogur 0% + vinagre
 
 ### PREPARACION
 Airfryer pechuga ~15 min (voltear 8) o contramuslo ~20 min (voltear 10). Ensalada col cruda. Pollo OK **frio** sobras.
@@ -198,28 +205,32 @@ Airfryer pechuga ~15 min (voltear 8) o contramuslo ~20 min (voltear 10). Ensalad
 
 ## R14 | Comida | Nuggets saludables de pollo
 
-### INGREDIENTES (~2 raciones / 300 g)
-- Pollo picado: **300 g**
+**Light:** pechuga picada · ketchup **zero/light** · mostaza · corn flakes sin azucar si puedes · horno (no frito).
+
+### INGREDIENTES (2 raciones / ~300 g)
+- Pollo picado (pechuga): **300 g**
 - Huevo: 1
-- Corn flakes: **100 g** (machacar)
+- Corn flakes: **100 g** (machacar; ideal sin azucar)
 - Pimenton dulce + especias al gusto
-- Acompanamiento: mostaza, ketchup, pepinillos
+- Acompanamiento: mostaza, ketchup **zero/light**, pepinillos
 
 ### PREPARACION
 1. Pollo en un bol; anadir huevo y mezclar.
 2. En bandeja de horno: machacar corn flakes + especias/pimenton.
 3. Formar bolitas; rebozar en corn flakes.
 4. Horno **250 C**, **10–15 min**.
-5. Servir con mostaza, ketchup y pepinillos.
+5. Servir con mostaza, ketchup zero y pepinillos.
 
 ---
 
 ## R15 | Postre / merienda | Tartaletas yogur y frutos del bosque
 
+**Light:** stevia · yogur natural / 0% · sin azucar anadido. **×2 tartaletas** si sois 2.
+
 ### INGREDIENTES (1 tartaleta)
 - Obleas de arroz: **2**
 - Huevo: 1
-- Yogur natural: **80 g**
+- Yogur natural o 0%: **80 g**
 - Stevia: 1 cdta
 - Ralladura de **1/2 limon**
 - Arandanos y frambuesas al gusto
@@ -236,56 +247,180 @@ Airfryer pechuga ~15 min (voltear 8) o contramuslo ~20 min (voltear 10). Ensalad
 
 ## R16 | Comida / cena | Tortillas de brocoli (2 personas)
 
+**Light:** 1 cdta aceite o spray · queso rallado **light** · tortitas integrales si hay.
+
 ### INGREDIENTES (2)
-- Brocoli: **400 g** (1 cabeza o floretes)
+- Brocoli: **400 g**
 - Huevos: **2–4** (1–2 por persona)
-- Tortitas de trigo: **2** (1 por persona)
+- Tortitas de trigo (ideal integral): **2**
 - Queso rallado light: **40–50 g**
-- Aceite, sal
+- Aceite (1 cdta o spray), sal
 
 ### PREPARACION
-1. Cortar brocoli en floretes pequenos. Saltear con chorrito de aceite **5–8 min** hasta tierno (si esta duro: +2–3 min o splash de agua + tapa).
-2. Repartir brocoli; verter 1–2 huevos batidos encima (o 2 tandas, una por persona).
+1. Cortar brocoli en floretes pequenos. Saltear con poco aceite **5–8 min** hasta tierno (si duro: +2–3 min o splash agua + tapa).
+2. Repartir brocoli; verter 1–2 huevos batidos encima (o 2 tandas).
 3. Cuando el huevo empiece a cuajar, poner **1 tortita** encima.
-4. Dar la vuelta (tortita abajo). Salar y espolvorear queso.
+4. Dar la vuelta (tortita abajo). Salar y espolvorear queso light.
 5. Plegar. Cuando el queso este derretido, servir.
 
 ---
 
 ## R17 | Comida | Croquetas proteicas (patata + sardinas)
 
-### INGREDIENTES (~2 raciones)
+**Light:** sardinas al natural · aceite en spray o pincelada fina · salsa yogur (no mayonesa).
+
+### INGREDIENTES (2 raciones)
 - Patata cocida: **2 medianas** (~300–400 g)
-- Sardinas en lata: **1–2 latas** (escurridas)
+- Sardinas al natural: **1–2 latas** (escurridas)
 - Huevo: **1–2** (ligar)
 - Ajo: 1 diente o ajo polvo
-- Especias al gusto: hierbas provenzales, cilantro, ralladura limon, chile, pimienta, sal
-- Aceite: chorrito sobre cada croqueta
+- Especias: hierbas provenzales, cilantro, ralladura limon, chile, pimienta, sal
+- Aceite: spray o chorrito muy fino sobre cada croqueta
 
 ### PREPARACION
-1. Machacar patata cocida + sardinas + huevo + ajo + especias hasta masa homogenea.
-2. Formar croquetas; colocar en bandeja. Chorrito de aceite sobre cada una.
+1. Machacar patata + sardinas + huevo + ajo + especias.
+2. Formar croquetas; aceite minimo sobre cada una.
 3. Horno **180 C**, **10–12 min** (hasta doradito).
 
 ### SALSA (opcional)
-Yogur especiado: yogur + limon + cilantro + aceitunas picadas (+ sal/pimienta).
+Yogur griego ligero + limon + cilantro + aceitunas picadas (+ sal/pimienta).
 
 ---
 
 ## R18 | Comida | Pastel de patata y pollo (4 raciones)
 
-**Rinde:** 4 servicios = **2 personas × 2 comidas** (cocinar una vez, guardar sobras en nevera; recalentar micro/horno).
+**Rinde:** 4 servicios = **2 personas × 2 comidas**. **Light:** queso rallado light · 1 cdta aceite · pollo al natural sin piel.
 
 ### INGREDIENTES (4)
 - Patatas cocidas (bote): **2 botes** (lavadas y bien escurridas)
-- Pollo asado al natural: **2 paquetes** Mercadona **o** pollo asado/tiras hechas en casa (~equivalente)
+- Pollo asado al natural: **2 paquetes** Mercadona **o** pechuga asada en casa
 - Pisto: **1 bote 350 g**
-- Queso rallado light: al gusto (cubrir la superficie)
-- Aceite de oliva, sal, pimienta, nuez moscada, oregano
+- Queso rallado light: capa fina
+- Aceite de oliva (1 cdta en el pure), sal, pimienta, nuez moscada, oregano
 
 ### PREPARACION
-1. Fuente de horno: patatas + chorrito de aceite + sal + pimienta + pizca de nuez moscada. Machacar con tenedor hasta pure.
-2. Mezclar pollo + pisto + pizca de sal, pimienta y oregano. Extender encima del pure.
-3. Cubrir con queso rallado.
-4. Horno **180 C × 15 min** + unos minutos con **grill** hasta dorar.
-5. Porcionar en 4. Comer 2 ahora (1 por persona); guardar 2 raciones para otra comida.
+1. Fuente: patatas + 1 cdta aceite + sal + pimienta + pizca nuez moscada. Machacar a pure.
+2. Mezclar pollo + pisto + sal, pimienta y oregano. Extender encima.
+3. Cubrir con capa fina de queso light.
+4. Horno **180 C × 15 min** + grill unos minutos.
+5. Porcionar en 4. 2 ahora (1/pers); 2 para otra comida.
+
+---
+
+## R19 | Comida / cena | Pasta cremosa de cebolla caramelizada (light, 2 pers)
+
+### INGREDIENTES (2)
+- Cebollas: **3–4** (finas)
+- Pasta **integral**: **140–160 g crudos** (~70–80 g/pers)
+- Aceite de oliva: **1 cdta**
+- Sal: 1 cdita
+- Aceto balsamico o vinagre: chorrito
+- Ajo polvo, pimenton dulce, pimienta
+- **Crema:** yogur griego ligero 2–3 cdas **o** batido 0% (preferido) · crema light 2 cdas (alt.)
+- Opcional proteina: pechuga ~150–200 g **o** 1–2 latas atun (para 2)
+
+### TIP cebolla
+Cortar al medio y enjuagar bajo el agua (menos llorar).
+
+### PREPARACION
+1. Cocer pasta al dente; reservar 1/2 vaso agua de coccion. Escurrir.
+2. Sartén: aceite + cebolla + sal a fuego bajo. Al dorar, chorrito aceto. Hasta caramelizada (10–20 min).
+3. Yogur/queso light + ajo + pimenton + pimienta → salsa. Aflojar con agua de pasta si hace falta.
+4. Incorporar pasta (+ proteina). Servir.
+
+---
+
+## R20 | Comida | Ensalada pasta Big Mac light (2 pers)
+
+Sabor burger light: salsa yogur + pepinillo, sin mayonesa. Ref. 1 pers ~416 kcal / 35 g prot / 4 g grasa → aqui ×2.
+
+### INGREDIENTES (2)
+- Pasta tiburones (o similar): **120 g crudos** (60 g/pers)
+- Pollo cocido / pechuga: **200 g**
+- Yogur griego **ligero**: **4 cdas** (~100–120 g)
+- Ketchup **zero/light**: **2 cdas**
+- Mostaza: **2 cdas**
+- Agua de pepinillos: 1–2 cdas
+- Pepinillos en vinagre: al gusto
+- Cebolla (ideal morada): 1/2–1
+- Tomate: 1–2
+- Lechuga: generosa
+- Ajo polvo, pimenton, sal
+
+### PREPARACION
+1. Cocer pasta; enfriar (o tibia).
+2. Bol: yogur + agua pepinillo + ketchup zero + mostaza + ajo + pimenton + sal. Remover.
+3. Anadir pasta, tomate, cebolla, pepinillos, pollo y lechuga. Mezclar.
+4. Servir **fria**.
+
+---
+
+## R21 | Comida | Ensalada proteina + fibra (judias) (2 pers)
+
+Mucha fibra y proteina. Ref. 1 pers ~422 kcal / 36 g prot / 16 g fibra / 8 g grasa → aqui ×2.
+
+### INGREDIENTES (2)
+- Judias / habichuelas cocidas: **400 g** (escurridas)
+- **Proteina (elige 1 o combina):**
+  - Atun natural: **2 latas**
+  - Pollo cocido: **200 g**
+  - Pavo lonchas: **150–200 g**
+  - Huevos duros: **2–4**
+  - Sardinas al natural: **1–2 latas**
+  - Queso fresco 0% / cottage light: **100–150 g**
+- Yogur griego ligero: **200 g**
+- Mostaza: 2–3 cdas
+- Huevo: **2** (para el picadillo)
+- Cebolla morada, pimiento rojo y verde, pepinillos, zanahoria: al gusto (generoso)
+- Sal, oregano
+- **Evitar** (o muy poco): aguacate, frutos secos, aceite extra
+
+### PREPARACION
+1. Bol: yogur + mostaza + sal + oregano.
+2. Picadora/cuchillo: huevo + vegetales → picadillo fino.
+3. Bol grande: judias + picadillo + salsa + proteina. Mezclar.
+4. Servir **fria**. Aguanta nevera 1–2 dias.
+
+---
+
+## R22 | Cena / aperitivo | Tomates asados + queso light (2 pers)
+
+Version light del tip burrata: menos aceite, queso bajo en grasa, pan integral controlado.
+
+### INGREDIENTES (2)
+- Tomates cherry: **400–500 g**
+- Ajos: 4–6 dientes pelados
+- Perejil fresco: un poco
+- Aceite de oliva: **1–2 cdtas**
+- Sal
+- **Queso (elige, de menos a mas kcal):**
+  - Preferido: mozzarella **light** o queso fresco 0% (~125–150 g)
+  - Capricho puntual: 1/2 burrata para 2 (repartir)
+- Albahaca fresca (opc.)
+- Parmesano: **opcional, 1 cdta** (no obligatorio)
+- Pan integral o Wasa: **2–4 rebanadas/tortitas**
+
+### PREPARACION
+1. Recipiente: cherry + ajos + perejil + aceite medido + sal. Remover.
+2. **Airfryer u horno** 180 C **20–25 min** hasta blanditos.
+3. Untar el pan con el jugo de los tomates; tostar 2–3 min.
+4. Emplatar tomates; queso light (o 1/2 burrata) encima; albahaca. Mojar el pan.
+
+---
+
+## R23 | Comida / cena | Migas de coliflor + huevos (2 pers)
+
+Sustituye pan/patata por coliflor: bajo carbo, alta saciedad.
+
+### INGREDIENTES (2)
+- Coliflor: **500 g**
+- Ajo polvo, pimenton (dulce/picante), sal
+- Aceite de oliva: **1–2 cdtas**
+- Huevos: **4** (2/pers a la plancha)
+- Jamon serrano: **2 lonchas** (o pavo / jamon cocido light)
+
+### PREPARACION
+1. Picar/rallar coliflor a textura “miga”.
+2. Sartén: aceite + coliflor. Sal, ajo polvo, pimenton. Fuego **medio-alto** (si muy bajo queda aguada).
+3. Cuando coja color: jamon 1–2 min.
+4. Emplatar; 2 huevos a la plancha por persona encima.
