@@ -1,280 +1,291 @@
-# Recetario - 1 plato = 1 folio
+# Recetario imprimible — 1 plato = 1 folio
 
-Imprime **cada bloque** entre lineas `---` (anverso / reverso si no cabe).
+Imprime cada bloque entre `---`. El **plan de la semana** (que dia toca que) esta en `semana.md`.
 
-**Comida 2 pers | Cena 3 pers** | Ajo: polvo o cocinado, nunca crudo.
+**Prioridad cocina:** 1) frio → 2) airfryer → 3) micro → 4) TM → 5) vitro.
 
-**Proteina comida:** Tu **2 pechugas ~350 g** | Madre **1 hamburguesa** (platos con hamburguesa).
+**Arroz (ahora):** 1) saquito arroz congelado micro → 2) cuando se acaben, vasito arroz Mercadona micro. (Arroz crudo TM solo si no queda ninguna de las dos.)
 
-**Corte carne:** Tu pollo o pavo → **cubos o dados** (cocina mas rapido y uniforme). Hamburguesa madre → **entera** (masticar mejor; no cortar en cubos).
+**Proteina tipica:** 150–180 g carne/pescado · o 1 lata atun · o 2–3 huevos.  
+**Ajo:** polvo o cocinado. **Huevos duros:** stock o airfryer 130 C ~10 min.
 
----
+## Indice (codigos = semana.md)
 
-## PLATO: Lunes comida 14 h | Arroz + verduras + pollo / hamburguesa | 2 pers
-
-### INGREDIENTES
-
-| Arroz crudo | Agua | Sal | Pollo pechuga (tu) | Hamburguesa (madre) | Verduras mix | Aceite, ajo polvo, pimenton |
-|-------------|------|-----|--------------------|--------------------|--------------|----------------------------|
-| 250 g | 900 ml | pizca | 2 pechugas ~350 g | 1 uds | 300 g | al gusto |
-
-### PREPARACION
-
-**Arroz (TM31)**  
-Min 0: vaso con arroz + agua + sal. Programar **35 min** / 100 C / giro inverso / vel cuchara.  
-Min 35: servir arroz.
-
-**Verduras (elige UNA)**  
-- **A Varoma:** min 20 del arroz, cesta Varoma con verduras encima del vaso. Sacar min 35.  
-- **B TM31 vaso:** antes del arroz, verduras + 1 cda aceite + sal. **8 min** / 100 C / giro inverso / vel cuchara. Volcar a bol. Cocer arroz despues.  
-- **C Microondas:** bol + verduras + 2 cda agua, tapado, **6-8 min**. Escurrir.  
-- **D Airfryer:** 180 C, 12 min. **Voltear min 6.**
-
-No echar verduras dentro del vaso del arroz.
-
-**Proteina (airfryer, 2 bandejas)**  
-- **Tu:** cortar pechugas en **cubos** del tamano de un mordisco. Mezclar con aceite, ajo polvo y pimenton. Airfryer **180 C**: 0-8 min, **voltear min 8**, 8-15 min.  
-- **Madre:** hamburguesa **entera** (no cortar). Bandeja aparte. **180 C**: 0-6 min, **voltear min 6**, 6-12 min.
-
-**Emplatado**  
-Tu: arroz + pollo en cubos + verduras.  
-Madre: arroz + hamburguesa entera + verduras.
+| Cod | Plato | Tipo |
+|-----|-------|------|
+| **R1** | Ensalada arroz micro + atun + huevo | Comida L |
+| **R2** | Crema fria pepino + huevo + queso 0% | Cena L |
+| **R3** | Lentejas frias + salmon | Comida M |
+| **R4** | Ensalada garbanzos + huevo | Cena M |
+| **R5** | Merluza + verduras | Comida X |
+| **R6** | Ensalada verde + queso 0% + huevo + fruta | Cena X / D |
+| **R7** | Pollo cubos + pimiento / ensalada | Comida J |
+| **R8** | Sopa fria pepino + huevo | Cena J |
+| **R9** | Pasta fria + atun + huevo | Comida V |
+| **R10** | Tortilla espinacas + ensalada | Cena V |
+| **R11** | Quinoa o arroz micro + salteado gambas + huevo | Comida S |
+| **R12** | Cena abierta ligera | Cena S |
+| **R13** | Pollo/contramuslo + ensalada col | Comida D |
+| **R14** | Nuggets saludables de pollo | Alt. comida (pollo) |
+| **R15** | Tartaletas yogur + frutos del bosque | Postre / merienda |
+| **R16** | Tortillas de brocoli | Comida/cena (2 pers) |
+| **R17** | Croquetas proteicas (patata + sardinas) | Alt. comida |
+| **R18** | Pastel de patata y pollo | Comida batch (4 raciones) |
 
 ---
 
-## PLATO: Lunes cena 21 h | Crema fria pepino | 3 pers
+## R1 | Comida | Ensalada arroz micro + atun + huevo
 
-### INGREDIENTES
+### INGREDIENTES (1)
+- **Arroz:** 1 saquito cong. micro **o** 1 vasito Mercadona micro
+- Atun natural: 1 lata
+- Huevo duro: 1
+- Tomate cherry / pepino: al gusto
+- Aceite, vinagre, sal
 
-| Pepino | Yogur griego ligero Hacendado | Ajo polvo, eneldo, sal | Huevos |
-|--------|-------------------------------|------------------------|--------|
-| 3 medianos | 600 g | al gusto | 3 |
+### OPCION FRIA (preferida)
+1. Calentar arroz al micro (segun envase). **Enfriar** 5–10 min o usar de nevera.
+2. Mezclar atun, verdura, huevo en rodajas, aliño.
+3. Servir **frio o tibio**.
 
-### PREPARACION
-
-1. **Airfryer:** cocer huevos **130 C, 10 min**. Enfriar en agua fria.  
-2. **TM31:** triturar pepino + yogur + ajo polvo + eneldo, **40 s vel 7**. Debe quedar crema espesa.  
-3. **Emplatado:** servir **frio** en boles. Picar huevo duro y poner encima de cada racion.
-
----
-
-## PLATO: Martes comida 14 h | Lentejas + salmon | 2 pers
-
-### INGREDIENTES
-
-| Lentejas bote | Salmon (lomos o filetes) | Manzana | Apio | Limon, mostaza, aceite, sal |
-|---------------|----------------------------|---------|------|------------------------------|
-| 1 grande | 2 (~300 g) o 1 lata atun | 1 | 2 ramas opc. | al gusto |
-
-### PREPARACION
-
-1. **Bol:** escurrir lentejas. Aliñar con limon, mostaza y aceite. Reservar.  
-2. **Salmon:** dejar **filete entero** (no cortar; revisar espinas despues). Sal y limon. **Airfryer 180 C**: 0-5 min, **voltear min 5**, 5-10 min.  
-3. **Emplatado:** base de lentejas en plato. Colocar filete de salmon **entero encima**. No desmenuzar.
+### OPCION CALOR
+Mismo arroz recien hecho + atun y huevo encima (tibio).
 
 ---
 
-## PLATO: Martes cena 21 h | Calabacin relleno | 3 pers
+## R2 | Cena | Crema fria pepino + huevo + queso 0%
 
-### INGREDIENTES
+### INGREDIENTES (1)
+- Pepino: 1 mediano
+- Yogur griego ligero: **200 g**
+- Ajo polvo, eneldo, sal
+- Huevo duro: 1
+- Queso fresco 0%: 2–3 cdas
 
-| Calabacin | Huevos | Espinacas congeladas | Ajo polvo, sal |
-|-----------|--------|----------------------|----------------|
-| 3 medianos | 4 | 200 g | al gusto |
+### OPCION FRIA (preferida)
+TM31/batidora: pepino + yogur + especias 40 s. Servir **frio**; huevo + queso encima.
 
-### PREPARACION
-
-1. Partir calabacines por la mitad y **vaciar** con cuchara.  
-2. **Sarten:** saltear pulpa picada + espinacas. Anadir huevos batidos y cuajar un poco. Rellenar calabacines.  
-3. **Airfryer:** **180 C, 15 min**. Abrir y comprobar a los 10 min.  
-4. **Emplatado:** servir caliente, media calabacin por racion (ajustar a 3 pers).
-
----
-
-## PLATO: Miercoles comida 14 h | Merluza + verduras | 2 pers
-
-### INGREDIENTES
-
-| Merluza filetes | Verduras mix congeladas | Limon, sal, hierbas |
-|-----------------|----------------------|---------------------|
-| 400-500 g | 300 g | al gusto |
-
-### PREPARACION
-
-**Verduras (elige UNA)**  
-- **A TM31 vaso:** verduras + 1 cda aceite + sal. **8 min** / 100 C / giro inverso / vel cuchara.  
-- **B Varoma:** 12 min / Varoma / vel 4.  
-- **C Microondas:** bol + 2 cda agua, **6-8 min**. Escurrir.  
-- **D Airfryer:** 180 C, 12 min. **Voltear min 6.**
-
-**Merluza**  
-Filetes **enteros** (no cortar). **Airfryer 180 C**: 0-6 min, **voltear min 6**, 6-12 min.
-
-**Emplatado**  
-Verduras + filete de merluza + limon al gusto.
+### OPCION SIN BATIDORA
+Pepino en daditos + yogur = tzatziki; mismo topping.
 
 ---
 
-## PLATO: Miercoles cena 21 h | Ensalada garbanzos | 3 pers
+## R3 | Comida | Lentejas frias + salmon
 
-### INGREDIENTES
-
-| Garbanzos bote | Cebolla morada | Lima o limon | Aceite, sal, menta seca opc. |
-|----------------|----------------|--------------|------------------------------|
-| 1 grande | 1/2 | 1 | al gusto |
+### INGREDIENTES (1)
+- Lentejas bote: **1/2** bote (escurridas)
+- Salmon: 1 filete ~120–150 g
+- Limon, mostaza, aceite, sal
+- Opcional: 1 huevo duro
 
 ### PREPARACION
-
-1. Escurrir garbanzos. Cortar cebolla en tiras finas.  
-2. Mezclar todo en bol con lima, aceite y sal.  
-3. **Emplatado:** servir **frio** en plato hondo o bol.
+1. Bol: lentejas + aliño (**frio**).
+2. Airfryer salmon 180 C ~8–10 min (voltear min 5).
+3. Salmon **tibio o frio** sobre lentejas. Sin salmon → atun (todo frio).
 
 ---
 
-## PLATO: Jueves comida 14 h | Pavo o pollo + pimiento | 2 pers
+## R4 | Cena | Ensalada garbanzos + huevo
 
-### INGREDIENTES
+### INGREDIENTES (1)
+- Garbanzos: 1/2 bote · cebolla morada poca · limon, aceite, sal
+- Huevo duro: 1 · hoja verde
 
-| Pavo o pollo (tu) | Hamburguesa (madre) | Pimiento | Salsa soja baja sal | Ajo polvo |
-|-------------------|---------------------|----------|---------------------|-----------|
-| 2 pechugas ~350 g | 1 uds | 2 | 3 cdas | al gusto |
+### OPCION FRIA
+Mezclar; servir **frio**.
 
-### PREPARACION
-
-1. **Tu:** cortar pechugas en **dados** y pimiento en trozos similares. Mezclar con soja y ajo polvo. Marinar 10 min.  
-2. **Airfryer bandeja 1 (tu):** carne + pimiento. **180 C**: 0-6 min, **voltear min 6**, 6-12 min.  
-3. **Airfryer bandeja 2 (madre):** hamburguesa **entera**. Misma temperatura y tiempos: voltear min 6.  
-4. **Emplatado:** tu racion de dados con pimiento. Madre: hamburguesa entera.
+### OPCION CALOR
+Saltear garbanzos 5 min; servir tibio sobre hoja.
 
 ---
 
-## PLATO: Jueves cena 21 h | Sopa fria pepino | 3 pers
+## R5 | Comida | Merluza + verduras
 
-### INGREDIENTES
+### INGREDIENTES (1)
+- Merluza: 150–200 g
+- Verdura mix micro/cong.: 200–250 g
+- Limon, sal
 
-| Pepino | Yogur griego ligero | Ajo polvo, eneldo, sal | Agua fria | Huevos |
-|--------|---------------------|------------------------|-----------|--------|
-| 3 medianos | 600 g | al gusto | 100-150 ml | 3 |
-
-### PREPARACION
-
-1. **Airfryer:** huevos **130 C, 10 min**. Enfriar.  
-2. **TM31:** pepino + yogur + ajo polvo + eneldo, **40 s vel 7**.  
-3. **TM31:** anadir **100-150 ml agua fria**. Mezclar **10 s vel 4**. Debe quedar liquida, como sopa.  
-4. **Emplatado:** servir **frio** en boles. Huevo duro picado encima.
+### PREPARACION (calor → comer tibio/frio)
+- Verdura: micro 6–8 min **o** airfryer 12 min (voltear 6).
+- Merluza: airfryer 180 C ~10–12 min (voltear 6).
+- Enfriar si hace calor.
 
 ---
 
-## PLATO: Viernes comida 14 h | Pasta integral + atun | 2 pers
+## R6 | Cena | Ensalada verde + queso 0% + huevo + fruta
 
-### INGREDIENTES
+### INGREDIENTES (1)
+- Lechuga/canonigos · queso 0% 80–100 g · huevo 1 · fruta 150 g · almendras opc. 10 g
 
-| Macarron integral | Atun al natural | Tomate cherry | Aceite, vinagre manzana, sal |
-|-------------------|-----------------|---------------|-------------------------------|
-| 160 g seco | 2 latas | 150 g | al gusto |
-
-### PREPARACION
-
-1. **TM31:** 1000 g agua + 1 cdita sal. Calentar **100 C** hasta que hierva.  
-2. **TM31:** cestillo con pasta. **11-13 min** / 100 C / vel cuchara. Probar punto. Escurrir.  
-3. **Bol:** mezclar pasta + atun escurrido + tomates cherry partidos + aceite + vinagre.  
-4. **Emplatado:** servir templado o a temperatura ambiente.
+### OPCION FRIA
+Montar bol; aliñar. **Todo frio.** (Cena X y D.)
 
 ---
 
-## PLATO: Viernes cena 21 h | Tortilla espinacas | 3 pers
+## R7 | Comida | Pollo cubos + pimiento / ensalada
 
-### INGREDIENTES
-
-| Huevos | Espinacas | Sal |
-|--------|-----------|-----|
-| 5-6 | 150 g | al gusto |
+### INGREDIENTES (1)
+- Pechuga: **150–180 g** cubos · pimiento 1 · soja baja sal 1–2 cdas · ajo polvo
+- Base: ensalada o verdura micro
 
 ### PREPARACION
-
-1. Picar espinacas. Batir huevos con sal.  
-2. **Sarten:** verter mezcla, fuego medio-bajo, tapa puesta, hasta cuajar.  
-3. **Emplatado:** servir caliente en porciones (triangulos o rodajas).
+Marinar 10 min → airfryer 180 C ~12 min (voltear 6) → servir **tibio o frio** sobre ensalada.
 
 ---
 
-## PLATO: Sabado comida 14 h | Arroz + salteado | 2 pers
+## R8 | Cena | Sopa fria pepino + huevo
 
-### INGREDIENTES
-
-| Arroz crudo | Agua | Sal | Bolsa salteado gambas/esparragos | Huevos |
-|-------------|------|-----|----------------------------------|--------|
-| 250 g | 900 ml | pizca | 1 | 2 |
-
-### PREPARACION
-
-1. **TM31:** arroz + agua + sal. **35 min** / 100 C / giro inverso / vel cuchara.  
-2. **Sarten:** salteado congelado **6-8 min**, removiendo. No hace falta cortar (va troceado del bolsa).  
-3. **Sarten aparte:** huevos revueltos.  
-4. **Emplatado:** arroz + salteado + huevo revuelto en cada plato.
+Igual que **R2** + **50–80 ml agua fria** tras triturar. Huevo picado. **Solo frio.**
 
 ---
 
-## PLATO: Sabado cena 21 h | Cena abierta moderada | 3 pers
+## R9 | Comida | Pasta fria + atun + huevo
 
-### INGREDIENTES
-
-Elegir **una** opcion:
-
-| Opcion A | Opcion B |
-|----------|----------|
-| Pizza stock (cantidad segun paquete) | Croquetas congeladas (~12-16 uds) |
+### INGREDIENTES (1)
+- Macarron integral: **70–80 g** crudo · atun 1 lata · cherry 80–100 g · huevo 1
 
 ### PREPARACION
-
-**Pizza:** horno o airfryer segun instrucciones del envase.
-
-**Croquetas:** **Airfryer 180 C**: 0-8 min, **voltear min 8**, 8-16 min (ajustar segun envase).
-
-**Emplatado:** servir caliente. Acompanar con ensalada si quereis.
-
-Si comida muy grasa: chitosan 30 min antes (ver uso-diario).
+Cocer pasta (TM 11–13 min o vitro) → **enfriar** → mezclar atun, tomate, huevo, aliño. Servir **fria**.
 
 ---
 
-## PLATO: Domingo comida 14 h | Pollo + hamburguesa + ensalada | 2 pers
+## R10 | Cena | Tortilla espinacas + ensalada
 
-### INGREDIENTES
+### INGREDIENTES (1)
+- Huevos 2–3 · espinacas cong. 80–100 g · ensalada
 
-| Pollo pechuga (tu) | Hamburguesa (madre) | Col | Zanahorias | Yogur 0 %, vinagre | Ajo polvo, romero |
-|--------------------|---------------------|-----|------------|--------------------|--------------------|
-| 2 pechugas ~350 g | 1 uds | 1/4 | 2 | al gusto | al gusto |
+### OPCION CALOR
+Sarten/airfryer tortilla → **caliente o tibia** + ensalada fria.
 
-*Alternativa tu: 2 contramuslos del stock (~350 g). Si usas muslos, no hace falta cortar; mismo tiempo airfryer.*
-
-### PREPARACION
-
-**Tu - pollo**  
-Cortar pechugas en **tiras o cubos** (cocina mas rapido que entera). Ajo polvo + romero + sal.  
-**Airfryer 180 C**: 0-8 min, **voltear min 8**, 8-15 min.  
-(Si usas contramuslos enteros: 0-10 min, voltear 10, 10-20 min.)
-
-**Madre - hamburguesa**  
-**Entera**, bandeja aparte. **180 C**: 0-6 min, **voltear min 6**, 6-12 min.
-
-**Ensalada (bol, sin fuego)**  
-Rallar col y zanahoria. Mezclar con yogur 0 %, vinagre y sal.
-
-**Emplatado**  
-Tu: pollo + ensalada. Madre: hamburguesa + ensalada.
+### OPCION FRIA
+Huevos duros + espinacas micro + ensalada.
 
 ---
 
-## PLATO: Domingo cena 21 h | Ensalada verde | 3 pers
+## R11 | Comida | Quinoa o arroz micro + salteado gambas + huevo
 
-### INGREDIENTES
-
-| Lechuga o canonigos | Fresas o fruta | Queso fresco 0 % | Almendras laminadas opc. | Aceite, vinagre, sal |
-|---------------------|----------------|------------------|--------------------------|----------------------|
-| 2 bolsas | 300 g | 1 tarrina | 30 g | al gusto |
+### INGREDIENTES (1)
+- **1 vasito quinoa micro** **o** 1 saquito/vasito arroz micro
+- Salteado gambas: 1/2–1 bolsa
+- Huevos: 2
 
 ### PREPARACION
+Micro base → salteado sarten/airfryer 6–8 min → huevo revuelto o duros. Comer **tibio o frio**.
 
-1. Lavar y escurrir lechuga. Cortar fresas.  
-2. Mezclar en bol con queso desmenuzado y almendras. Aliñar.  
-3. **Emplatado:** servir **frio** al momento.
+---
+
+## R12 | Cena | Abierta ligera verano
+
+Elige **una**:
+- Ensalada + atun/huevo + queso 0%
+- Crema brik **fria** + huevo
+- Gazpacho + Wasa + pavo
+
+Evitar pizza/croquetas en deficit (excepcion = poca racion + mucha ensalada).
+
+---
+
+## R13 | Comida | Pollo/contramuslo + ensalada col
+
+### INGREDIENTES (1)
+- Pechuga 150–180 g **o** 1 contramuslo · col 1/8 · zanahoria 1 · yogur 0% + vinagre
+
+### PREPARACION
+Airfryer pechuga ~15 min (voltear 8) o contramuslo ~20 min (voltear 10). Ensalada col cruda. Pollo OK **frio** sobras.
+
+---
+
+## R14 | Comida | Nuggets saludables de pollo
+
+### INGREDIENTES (~2 raciones / 300 g)
+- Pollo picado: **300 g**
+- Huevo: 1
+- Corn flakes: **100 g** (machacar)
+- Pimenton dulce + especias al gusto
+- Acompanamiento: mostaza, ketchup, pepinillos
+
+### PREPARACION
+1. Pollo en un bol; anadir huevo y mezclar.
+2. En bandeja de horno: machacar corn flakes + especias/pimenton.
+3. Formar bolitas; rebozar en corn flakes.
+4. Horno **250 C**, **10–15 min**.
+5. Servir con mostaza, ketchup y pepinillos.
+
+---
+
+## R15 | Postre / merienda | Tartaletas yogur y frutos del bosque
+
+### INGREDIENTES (1 tartaleta)
+- Obleas de arroz: **2**
+- Huevo: 1
+- Yogur natural: **80 g**
+- Stevia: 1 cdta
+- Ralladura de **1/2 limon**
+- Arandanos y frambuesas al gusto
+
+### PREPARACION
+1. Mezclar yogur + stevia + ralladura de limon.
+2. Batir el huevo en un plato amplio.
+3. Pasar cada oblea por el huevo; apilar una sobre otra.
+4. Yogur en el centro; doblar bordes hacia dentro; repartir frutos.
+5. **Airfryer** 180 C × **10 min** **o** **horno** 180 C × **16 min**.
+6. Dejar templar antes de comer.
+
+---
+
+## R16 | Comida / cena | Tortillas de brocoli (2 personas)
+
+### INGREDIENTES (2)
+- Brocoli: **400 g** (1 cabeza o floretes)
+- Huevos: **2–4** (1–2 por persona)
+- Tortitas de trigo: **2** (1 por persona)
+- Queso rallado light: **40–50 g**
+- Aceite, sal
+
+### PREPARACION
+1. Cortar brocoli en floretes pequenos. Saltear con chorrito de aceite **5–8 min** hasta tierno (si esta duro: +2–3 min o splash de agua + tapa).
+2. Repartir brocoli; verter 1–2 huevos batidos encima (o 2 tandas, una por persona).
+3. Cuando el huevo empiece a cuajar, poner **1 tortita** encima.
+4. Dar la vuelta (tortita abajo). Salar y espolvorear queso.
+5. Plegar. Cuando el queso este derretido, servir.
+
+---
+
+## R17 | Comida | Croquetas proteicas (patata + sardinas)
+
+### INGREDIENTES (~2 raciones)
+- Patata cocida: **2 medianas** (~300–400 g)
+- Sardinas en lata: **1–2 latas** (escurridas)
+- Huevo: **1–2** (ligar)
+- Ajo: 1 diente o ajo polvo
+- Especias al gusto: hierbas provenzales, cilantro, ralladura limon, chile, pimienta, sal
+- Aceite: chorrito sobre cada croqueta
+
+### PREPARACION
+1. Machacar patata cocida + sardinas + huevo + ajo + especias hasta masa homogenea.
+2. Formar croquetas; colocar en bandeja. Chorrito de aceite sobre cada una.
+3. Horno **180 C**, **10–12 min** (hasta doradito).
+
+### SALSA (opcional)
+Yogur especiado: yogur + limon + cilantro + aceitunas picadas (+ sal/pimienta).
+
+---
+
+## R18 | Comida | Pastel de patata y pollo (4 raciones)
+
+**Rinde:** 4 servicios = **2 personas × 2 comidas** (cocinar una vez, guardar sobras en nevera; recalentar micro/horno).
+
+### INGREDIENTES (4)
+- Patatas cocidas (bote): **2 botes** (lavadas y bien escurridas)
+- Pollo asado al natural: **2 paquetes** Mercadona **o** pollo asado/tiras hechas en casa (~equivalente)
+- Pisto: **1 bote 350 g**
+- Queso rallado light: al gusto (cubrir la superficie)
+- Aceite de oliva, sal, pimienta, nuez moscada, oregano
+
+### PREPARACION
+1. Fuente de horno: patatas + chorrito de aceite + sal + pimienta + pizca de nuez moscada. Machacar con tenedor hasta pure.
+2. Mezclar pollo + pisto + pizca de sal, pimienta y oregano. Extender encima del pure.
+3. Cubrir con queso rallado.
+4. Horno **180 C × 15 min** + unos minutos con **grill** hasta dorar.
+5. Porcionar en 4. Comer 2 ahora (1 por persona); guardar 2 raciones para otra comida.

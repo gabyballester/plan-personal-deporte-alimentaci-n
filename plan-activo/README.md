@@ -1,23 +1,31 @@
-# Plan activo - Gabriel 2026
+# Plan activo — Gabriel 2026 (verano, 1 persona)
 
-## Imprimir
+**Lista de compra clicable (móvil):** [Abrir checklist](https://gabyballester.github.io/plan-personal-deporte-alimentaci-n/compras.html)
 
-- **uso-diario.md** - horarios, capsulas, batido (1 pagina referencia + 1 pagina por dia)
-- **recetario.md** - **1 plato = 1 folio** (cada bloque entre `---`). INGREDIENTES + PREPARACION + Emplatado en lenguaje claro
+## Que imprimir (orden)
 
-### PDF
+| # | Archivo | Que es |
+|---|---------|--------|
+| 1 | **semana.md** | Plan L–D en una hoja + tarjeta capsulas (empezar aqui) |
+| 2 | **recetario.md** | Recetas R1–R13, 1 plato = 1 folio |
+| 3 | **entrenamiento.md** | Bici + fuerza diaria + hernia |
+| 4 | **suplementos.md** | Para que sirve cada uno + cuando / deporte / recomprar |
+| 5 | **compras.md** | Lista Mercadona |
+| — | uso-diario.md | Detalle desayuno/almuerzo por dia (opcional) |
+| — | alimentos.md | Productos validados |
+| — | consulta.md | Tips rapidos |
 
-1. Abrir `.md` en **Word** (arrastrar archivo) o copiar y pegar.
-2. Ajustar tablas a ancho pagina. Imprimir **A4**, margenes estrechos si hace falta.
-3. **Frente y dorso:** imprimir dia Lunes uso-diario + recetario Lunes en 2 caras, etc.
-4. Alternativa: extension **Markdown PDF** en VS Code / Cursor, o [pandoc](https://pandoc.org) si lo tienes instalado.
+## Mapa rapido
 
-No hay PDF generado en el proyecto; tu Word es la opcion mas controlada para maquetacion.
+- **Que como cada dia** → `semana.md`  
+- **Como se prepara** → `recetario.md` (codigo R)  
+- **Que entreno** → columna Entreno en `semana.md` + detalle `entrenamiento.md`  
+- **Que pastillas** → tarjeta en `semana.md` o tabla maestra en `suplementos.md`  
 
-## Consulta
+## Reglas clave
 
-- **consulta.md** - pasos batido, arroz min 20, sopa jueves vs crema lunes
-
-## Nota acentos
-
-Si el visor no muestra tildes, en Cursor: archivo → guardar con codificacion **UTF-8**. Los textos usan espanol normal (colágeno, frío, café pueden verse sin tilde en versión imprimida ASCII).
+- 1 persona; madre si se une reparte.  
+- Arroz: saquito cong. micro → luego vasito Mercadona micro.  
+- **Espirulina y BCAA:** se toman ahora; **no recomprar**.  
+- Melatonina: solo dias despejado/sin sueno; no recomprar.  
+- Recomprar SI: creatina, whey, omega 3, colageno, Multicentrum.

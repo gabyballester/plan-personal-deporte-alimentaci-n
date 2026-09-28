@@ -1,150 +1,100 @@
-# Uso diario - imprimir
+# Uso diario — detalle por dia
 
-Gabriel | Desayuno 08 h | Almuerzo 11 h | Entreno 17 h | Merienda 18 h | Comida 14 h (2 pers) | Cena 21 h (3 pers)
+**Plan semana imprimible (L–D):** empieza por `semana.md` (tabla + tarjeta capsulas).  
+Este archivo amplía desayuno/almuerzo. Recetas comida/cena = codigos **R1–R13** en `recetario.md`. Entreno: `entrenamiento.md`.
 
-Recetas cocina: **recetario.md** (imprimir el dia que toque)
-
----
-
-## Batido post-entreno (L X V M J y sabado B al volver)
-
-1. Shaker **300 ml agua fria** (no leche).
-2. **Creatina 5 g**. Agitar 10 s.
-3. **Scoop grande** whey. Agitar 20 s.
-4. Beber en **10 min** tras entreno.
-5. **Fruta** aparte (no en el shaker).
-
-Noche cena floja: medio scoop + **200 ml agua**.
+**Gabriel** | 1 persona | Verano | Deficit suave | Bici 30–60 manana **o** tarde | Fuerza todos los dias
 
 ---
 
-## LUNES
+## Capsulas (resumen; detalle en suplementos.md)
 
-| Hora | Que |
-|------|-----|
-| 07:45 | Colageno Deliplus o HSN en **agua fria** (vaso aparte). No en el cafe. |
-| 07:50 | Caps: Multicentrum, Salvia, Germen, Alcachofa. |
-| 08:00 | 60 g avena + 200 ml leche desnatada + 1 cda lino (+ 1 cda chia cuando repongas bolsa). Cafe. |
-| 11:00 | Yogur **griego ligero** Hacendado 125 g + manzana. |
-| 14:00 | Comida 2 pers (recetario Lunes). Caps: Alcachofa, Germen, Omega 3. |
-| 17:00 | FUERZA pecho / espalda / core. |
-| 18:00 | Batido post-entreno + platano. |
-| 21:00 | Cena 3 pers (recetario Lunes). Caps: Alcachofa, Germen, Fucus. |
-| 23:00 | Glutamina 5 g agua. |
+| Cuando | Que | Cuanto | Recomprar |
+|--------|-----|--------|-----------|
+| 07:45 | Colageno | 1 dosis | SI |
+| 07:50 | Multicentrum | 1 | SI opcional |
+| Tras desayuno | Alcachofa | 3 | NO |
+| Tras desayuno | Espirulina | 3 | **NO** |
+| Comida | Omega 3 | 2 | SI |
+| Comida | Espirulina | 3 | **NO** |
+| Comida | BCAA | 2 | **NO** |
+| Pre entreno | Creatina | ~3,4 g | SI |
+| Post fuerza | Whey | 1 scoop / 300 ml agua | SI |
+| 23:00 | Glutamina | 5 g | casi NO |
+| Noche si despejado | Melatonina AML | 2 | **NO** |
 
----
-
-## MARTES
-
-| Hora | Que |
-|------|-----|
-| 07:45 | Colageno agua aparte del cafe. |
-| 07:50 | Caps manana (igual lunes). |
-| 08:00 | 2 tostadas + **1 cda cacahuete polvo en 1 tostada** + 2 huevos cocidos airfryer 130 C 9-11 min. Cafe. |
-| 11:00 | Platano + mix frutos 3 nueces + 3 almendras + 3 avellanas. |
-| 11:30 | Caps: cafe verde. |
-| 14:00 | Comida 2 pers (recetario Martes). Caps comida. |
-| 16:15 | MTB ~1 h: L-carnitina 2 caps + agua. |
-| Durante | Electrolitos. |
-| 18:00 | Batido post-entreno + platano. |
-| 21:00 | Cena 3 pers (recetario Martes). Caps cena. |
-| 23:00 | Glutamina 5 g agua. |
+**Espirulina y BCAA:** se toman ahora; al vaciar el bote **no se recompran**.
 
 ---
 
-## MIERCOLES
+## Plantilla A — bici manana
 
-| Hora | Que |
-|------|-----|
-| 07:45 | Colageno agua aparte. |
-| 07:50 | Caps manana. |
-| 08:00 | Yogur **rico en proteinas** Mercadona 125 g + 25 g avena + **1 cda cacahuete polvo** + frutos rojos. Cafe. |
-| 11:00 | 2 huevos cocidos + 1-2 tostadas con tomate. |
-| 14:00 | Comida 2 pers (recetario Miercoles). Caps comida. |
-| 17:00 | FUERZA hombro / brazos / core. |
-| 18:00 | Batido post-entreno + kiwi. |
-| 21:00 | Cena 3 pers (recetario Miercoles). Caps cena. |
-| 23:00 | Glutamina 5 g agua. |
+07:00 bici → creatina → 07:45 colageno → 07:50 capsulas → 08:00 desayuno → fuerza → whey → 11:00 almuerzo → 14:00 comida+capsulas → merienda opc. → 21:00 cena → 23:00 glutamina.
+
+## Plantilla B — bici tarde
+
+07:45 colageno+capsulas → desayuno → almuerzo → 14:00 comida → 18–19 fuerza+whey → 20–21 bici → cena ligera → glutamina.
 
 ---
 
-## JUEVES
+## Lunes — pecho | R1 + R2
 
-| Hora | Que |
-|------|-----|
-| 07:45 | Colageno agua aparte. |
-| 07:50 | Caps manana. |
-| 08:00 | 60 g avena + 200 ml leche + 1 cda lino + **1 cda cacahuete polvo**. Cafe. |
-| 11:00 | Yogur griego ligero 125 g + naranja. |
-| 11:30 | Caps: cafe verde. |
-| 14:00 | Comida 2 pers (recetario Jueves). Caps comida. |
-| 16:15 | MTB ~1 h: L-carnitina + electrolitos. |
-| 18:00 | Batido post-entreno + manzana. |
-| 21:00 | Cena 3 pers (recetario Jueves). Caps cena. |
-| 23:00 | Glutamina 5 g agua. |
+- **Desayuno:** 60 g avena + 200 ml leche + 1 cda lino + 1 cda chia + cafe  
+- **Almuerzo:** yogur griego 125 g + fruta  
+- **Comida:** **R1** (arroz micro + atun + huevo)  
+- **Cena:** **R2** (crema pepino)  
+- **Fuerza:** empuje pecho  
 
 ---
 
-## VIERNES
+## Martes — espalda | R3 + R4
 
-| Hora | Que |
-|------|-----|
-| 07:45 | Colageno agua aparte. |
-| 07:50 | Caps manana. |
-| 08:00 | 2 tostadas + jamon cocido + cafe (sin cacahuete). |
-| 11:00 | Manzana + mix frutos 3+3+3. |
-| 14:00 | Comida 2 pers (recetario Viernes). Caps comida. |
-| 17:00 | FUERZA pierna / core / espalda. |
-| 18:00 | Batido post-entreno + platano. |
-| 21:00 | Cena 3 pers (recetario Viernes). Caps cena. |
-| 23:00 | Glutamina 5 g agua. |
+- **Desayuno:** 2 tostadas + cacahuete polvo en 1 + 2 huevos + cafe  
+- **Almuerzo:** platano + mix 3+3+3  
+- **Comida:** **R3** · **Cena:** **R4**  
+- **Fuerza:** tiron espalda  
 
 ---
 
-## SABADO
+## Miercoles — hombro | R5 + R6
 
-### Sabado A - salida MANANA
-
-| Hora | Que |
-|------|-----|
-| 07:45 | Colageno agua. |
-| 07:50 | Caps manana. |
-| 08:00 | Yogur proteinas 125 g + 20 g avena + **1 cda cacahuete polvo** + frutos rojos. |
-| En ruta | Platano + mix frutos o 2 Wasa + media lata atun. |
-| 14:00 | Comida 2 pers (recetario Sabado). |
-| 18:00 | Sin whey si comida con proteina. Creatina 5 g agua. |
-| 21:00 | Cena 3 pers abierta (chitosan 30 min antes si grasa). |
-| 23:00 | Glutamina 5 g agua. |
-
-### Sabado B - bici TARDE
-
-| Hora | Que |
-|------|-----|
-| 07:45-08:00 | Colageno + desayuno A. |
-| 11:00 | 2 huevos cocidos + fruta. |
-| Llevar | Platano + mix frutos. |
-| Durante | Electrolitos. |
-| Al volver | Batido post-entreno o cena proteica sin whey. |
-| 21:00 | Cena 3 pers. |
-| 23:00 | Glutamina 5 g agua. |
+- **Desayuno:** yogur proteinas + **25 g harina avena** (sin endulzar; o con endulzante si estas acabando stock) + cacahuete + bayas + cafe  
+- **Almuerzo:** 2 huevos + tostada/Wasa  
+- **Comida:** **R5** · **Cena:** **R6**  
+- **Fuerza:** hombro  
 
 ---
 
-## DOMINGO
+## Jueves — espalda/biceps | R7 + R8
 
-| Hora | Que |
-|------|-----|
-| 07:45 | Colageno agua. |
-| 07:50 | Caps manana. |
-| 08:00 | Libre: si avena o tostada → **1 cda cacahuete polvo**. |
-| 11:00 | Fruta o yogur griego ligero. |
-| 14:00 | Comida 2 pers (recetario Domingo). |
-| 18:00 | Creatina 5 g agua. Sin whey obligatorio. |
-| 21:00 | Cena 3 pers (recetario Domingo). |
-| 23:00 | Glutamina 5 g agua. |
+- **Desayuno:** 60 g avena + leche + lino + cacahuete + cafe  
+- **Almuerzo:** yogur griego + naranja/sandia  
+- **Comida:** **R7** · **Cena:** **R8**  
+- **Fuerza:** espalda + biceps  
 
 ---
 
-## Comensales (todas las comidas / cenas)
+## Viernes — pecho/triceps | R9 + R10
 
-Comida 14 h = **2 pers** | Cena 21 h = **3 pers**
+- **Desayuno:** 2 tostadas + jamon/pavo + cafe (sin cacahuete)  
+- **Almuerzo:** manzana + mix frutos  
+- **Comida:** **R9** · **Cena:** **R10**  
+- **Fuerza:** pecho + triceps  
+
+---
+
+## Sabado — full ligero | R11 + R12
+
+- **Desayuno:** yogur proteinas + **20 g harina avena** (sin endulzar; o con endulzante si estas acabando stock) + cacahuete + bayas  
+- **Almuerzo:** fruta + Wasa o huevos  
+- **Comida:** **R11** · **Cena:** **R12**  
+- **Fuerza:** full tren superior ligero  
+
+---
+
+## Domingo — core suave | R13 + R6
+
+- **Desayuno libre:** **60 g copos** + leche (+ lino/chia) **o** yogur + 25 g harina (buena para gastar la **con endulzante**) **o** tostada + cacahuete  
+- **Almuerzo:** fruta o yogur  
+- **Comida:** **R13** · **Cena:** **R6**  
+- **Fuerza:** movilidad + core seguro (sin crunch duro)  

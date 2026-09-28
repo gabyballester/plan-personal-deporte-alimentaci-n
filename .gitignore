@@ -1,0 +1,14 @@
+# OS / editor
+Thumbs.db
+Desktop.ini
+desktop.ini
+.DS_Store
+*.tmp
+~$*
+
+# Cursor / Claude local
+.claude/
+.cursor/
+
+# Fotos pesadas (opcionales; inventario en md)
+archivos/suplementos/fotos/
