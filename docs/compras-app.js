@@ -1,5 +1,5 @@
 (function () {
-  var STORAGE_KEY = "plan-compras-checked-v1";
+  var STORAGE_KEY = "plan-compras-carrefour-r13-r23-v1";
   var data = window.COMPRAS || [];
   var checked = load();
 

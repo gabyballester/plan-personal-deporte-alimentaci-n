@@ -1,6 +1,6 @@
 # Plan activo — Gabriel 2026 (verano, 1 persona)
 
-**Lista de compra clicable (móvil, 2 pers R13–R23):** [Abrir checklist](https://gabyballester.github.io/plan-personal-deporte-alimentaci-n/compras.html)
+**Lista Carrefour hoy (R13–R23, 2 pers):** [Abrir checklist](https://gabyballester.github.io/plan-personal-deporte-alimentaci-n/compras.html)
 
 ## Que imprimir (orden)
 
